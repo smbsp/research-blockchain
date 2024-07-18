@@ -1,0 +1,1 @@
+compiler.solc.ignore_paths = ["tests"]
